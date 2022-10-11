@@ -119,7 +119,7 @@
 .
 
 <https://www.epos-eu.org/epos-dcat-ap/Seismology/WebService/001> a epos:WebService ;
-  #schema:identifier "https://www.epos-eu.org/epos-dcat-ap/Seismology/WebService/001" ;
+  schema:identifier "https://www.epos-eu.org/epos-dcat-ap/Seismology/WebService/001" ;
   schema:identifier [ a schema:PropertyValue;
     schema:propertyID "DOI";
     schema:value "0000000/000000000000";
